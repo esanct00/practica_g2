@@ -1,4 +1,4 @@
-class hola{
+class Hola{
 
 public static void main (String args[]){
 
